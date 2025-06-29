@@ -1,9 +1,9 @@
 
-# Animations in UIKIt
+# JavaScript Injection in Safari
 
 ### Made with Swift & UIKIt Framework.
 
-### Project 19, A Technique Project
+### Project 19
 
 # Screenshots
 
